@@ -2,7 +2,7 @@ var hr, mn, sc;
 var hrAngle, mnAngle, scAngle; 
 
 function setup(){
-    createCanvas(400,400); 
+    createCanvas(800,800); 
     //To use angle in Degrees
     angleMode(DEGREES);   
 }
